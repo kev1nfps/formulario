@@ -1,0 +1,13 @@
+C:\Users\Kevin Mejias\source\repos\AdminEmpleados\AdminEmpleados\bin\Debug\AdminEmpleados.exe.config
+C:\Users\Kevin Mejias\source\repos\AdminEmpleados\AdminEmpleados\bin\Debug\AdminEmpleados.exe
+C:\Users\Kevin Mejias\source\repos\AdminEmpleados\AdminEmpleados\bin\Debug\AdminEmpleados.pdb
+C:\Users\Kevin Mejias\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.AssemblyReference.cache
+C:\Users\Kevin Mejias\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kevin Mejias\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.Form1.resources
+C:\Users\Kevin Mejias\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.PL.frmDepartamentos.resources
+C:\Users\Kevin Mejias\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.PL.frmEmpleados.resources
+C:\Users\Kevin Mejias\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.Properties.Resources.resources
+C:\Users\Kevin Mejias\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.GenerateResource.cache
+C:\Users\Kevin Mejias\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Mejias\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.exe
+C:\Users\Kevin Mejias\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.pdb
